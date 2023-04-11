@@ -1,0 +1,24 @@
+/* Définition des styles pour les balises h1 */
+h1 {
+  color: blue; /* Couleur du texte */
+  font-size: 36px; /* Taille de police */
+  font-family: Arial, sans-serif; /* Police de caractère */
+  text-align: center; /* Alignement du texte */
+  margin-top: 50px; /* Marge supérieure */
+}
+
+/* Définition des styles pour les balises p */
+p {
+  color: #333; /* Couleur du texte en code hexadécimal */
+  font-size: 18px;
+  font-family: Verdana, sans-serif;
+  line-height: 1.5; /* Hauteur de ligne */
+  margin-bottom: 20px; /* Marge inférieure */
+}
+
+/* Définition des styles pour un élément avec la classe "ma-classe" */
+.ma-classe {
+  background-color: yellow; /* Couleur de fond */
+  padding: 10px; /* Espacement intérieur */
+  border: 1px solid black; /* Bordure */
+}
